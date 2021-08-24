@@ -21,6 +21,7 @@
   <img align="center" alt="Veve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Veve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Veve-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Veve-PopDoll" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_BQI5MWnp.png">
 </div>
   
   ##
