@@ -6,7 +6,7 @@
 - 📫 Você pode entrar em contato comigo através do meu e-mail que está no meu perfil ou das minhas redes sociais.
 - ⚡ Fato engraçado: Nunca pensei que iria me apaixonar por Tecnologia.
 
-## 🔥 Stats
+## 🔥 Stacks
 
  <div>
   <a href="https://github.com/veruskadeoliver">
