@@ -1,10 +1,9 @@
 ## Olá 👋! Eu sou, Veruska de Oliveria 
 
-- 🌱 Atualmente Pessoa Estudante de Desenvolvimento Web | Trybe, 
-- 🌻 Venho buscando melhorias na minha Soft Skills diariamente,
-- 💬 Se tiver com curiosidade de saber sobre minhas experiẽncias como estudante de Dev até agora, estou a disposição.
-- 📫 Você pode entrar em contato comigo através do meu e-mail que está no meu perfil ou das minhas redes sociais.
-- ⚡ Fato engraçado: Nunca pensei que iria me apaixonar por Tecnologia.
+- 🌱 Desenvolvedora Web Full Stack Jr, 
+- 🌻 Olá, o meu nome é Veruska de Oliveira, tenho 36 anos, nasci em Fortaleza, Ceará - Brasil, mas hoje vivo em Vila Nova de Gaia, Porto - Portugal.
+- 📚 A minha formação é em Desenvolvimento Web (Técnico), mas tenho experiência em Social Mídia e Redes Sociais.
+- 🖖🏻 O meu principal objectivo é acrescentar com todo o meu desejo de aprendizagem e colaboração que tenho na área de desenvolvimento para a empresa à qual vou aplicar-me. Sou responsável, criativa, dinâmica, e tenho um grande sentido de liderança.
 
 ## 🔥 Stacks
 
