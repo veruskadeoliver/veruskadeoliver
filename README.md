@@ -1,9 +1,8 @@
 ## Olá 👋! Eu sou, Veruska de Oliveria 
-
-- 🌱 Desenvolvedora Web Full Stack Jr, 
-- 🌻 Olá, o meu nome é Veruska de Oliveira, tenho 36 anos, nasci em Fortaleza, Ceará - Brasil, mas hoje vivo em Vila Nova de Gaia, Porto - Portugal.
-- 📚 A minha formação é em Desenvolvimento Web (Técnico), mas tenho experiência em Social Mídia e Redes Sociais.
-- 🖖🏻 O meu principal objectivo é acrescentar com todo o meu desejo de aprendizagem e colaboração que tenho na área de desenvolvimento para a empresa à qual vou aplicar-me. Sou responsável, criativa, dinâmica, e tenho um grande sentido de liderança.
+ 
+- 🌻 Nasci em Fortaleza, Ceará - Brasil, mas hoje vivo em Vila Nova de Gaia, Porto - Portugal.
+- 📚 A minha formação é em **Desenvolvedora Web Full Stack Jr**, mas tenho experiência em Social Mídia e Redes Sociais.
+- 🖖🏻 O meu principal objectivo é acrescentar no crescimento e desenvolvimento para a empresa à qual vou aplicar-me, com todo o meu desejo de aprendizagem e colaboração. Sou responsável, criativa, dinâmica, e tenho um grande sentido de liderança.
 
 ## 🔥 Stacks
 
